@@ -1,4 +1,4 @@
-asdfasrequire "sinatra/base"
+require "sinatra/base"
 require "sinatra/json"
 
 require_relative "radar"
